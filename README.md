@@ -1,4 +1,4 @@
-# Light-Strip-Controller
+# Arduino multi light-strips
 
 Arduino Mega code to control multiple WS2812b RGB LED strips using buttons, LCD screen and motion sensor.
 
